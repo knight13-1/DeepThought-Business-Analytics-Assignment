@@ -1,4 +1,4 @@
-# Research Methodology: Target Company Identification (Indore Agri-Tech)
+# Research Methodology: Target Company Identification
 **Project:** DeepThought Business Analytics Internship – Part A  
 **Candidate:** Yash Raj Gupta  
 
